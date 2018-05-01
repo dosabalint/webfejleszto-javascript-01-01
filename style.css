@@ -17,11 +17,11 @@ html {
   font-size: 3rem;
 }
 
-btn-green {
+.btn-green {
   background-color: #abda0a;
 }
 
-btn-green:hover {
+.btn-green:hover {
   background-color: #ceff25;
 }
 

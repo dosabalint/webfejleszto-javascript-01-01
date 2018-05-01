@@ -1,5 +1,5 @@
 let uzenet = 'Hello Felhasználó!';
 
-console_log(uzenet);
+console.log(uzenet);
 
 alert(uzenet);
