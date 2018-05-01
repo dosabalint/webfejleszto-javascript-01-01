@@ -21,7 +21,7 @@ btn-green {
   background-color: #abda0a;
 }
 
-.btn-green:hover {
+btn-green:hover {
   background-color: #ceff25;
 }
 
